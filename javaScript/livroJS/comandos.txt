@@ -1,0 +1,6 @@
+	Nota: O JavaScript é uma linguagem Case sensitive, ou seja,
+diferencia maiúsculas de minúsculas.
+
+Saída de Dados
+
+alert() --> apresenta a saída em um alerta
